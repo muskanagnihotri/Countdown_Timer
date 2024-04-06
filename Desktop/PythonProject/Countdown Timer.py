@@ -11,4 +11,5 @@ def countdown(t):
     print('YEAH YEAH FIRE')
 
 t=input("Enter the time in seconds: ")
+
 countdown(int(t))
